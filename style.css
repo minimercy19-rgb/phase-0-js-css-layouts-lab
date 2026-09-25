@@ -21,17 +21,17 @@
     flex: 1 1 100%;
     max-width: 100%;
 }
-.cat-breed:hover{
+.cat-breed:hover {
     transform: scale(1.05);
 }
-.cat-breed img{
+.cat-breed img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
 }
-.cat-breed h3{
+.cat-breed h3 {
     margin: 0.5 em 0;
 }
-.cat-breed p{
+.cat-breed p {
     margin: 0.5em 0 1em;
 }
